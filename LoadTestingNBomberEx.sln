@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoadTestingNBomberEx", "LoadTestingNBomberEx\LoadTestingNBomberEx.csproj", "{DAFBDE0F-5F4A-4E3A-845A-8263726DED1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAFBDE0F-5F4A-4E3A-845A-8263726DED1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFBDE0F-5F4A-4E3A-845A-8263726DED1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFBDE0F-5F4A-4E3A-845A-8263726DED1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFBDE0F-5F4A-4E3A-845A-8263726DED1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
